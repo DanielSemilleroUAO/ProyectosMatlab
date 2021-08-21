@@ -1,0 +1,3 @@
+Se realizó un expermiento en un sistema de presión, en el lab de Automática de la UAO:
+La señal de entrada corresponde al Voltaje en la valvula neumatica que es proporcional y
+la señal de salida corresponde a la presión del aire en un tanque.
